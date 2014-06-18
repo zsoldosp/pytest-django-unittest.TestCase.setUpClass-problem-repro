@@ -1,0 +1,6 @@
+*test.log
+*.egg-info
+venv
+*.pyc
+*~
+*.swp
